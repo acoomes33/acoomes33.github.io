@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Refreshing CLI App"
-date:       2020-08-21 20:07:49 +0000
+date:       2020-08-21 16:07:49 -0400
 permalink:  a_refreshing_cli_app
 ---
 
