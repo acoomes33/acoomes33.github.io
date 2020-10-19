@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Magic of Rails"
-date:       2020-10-19 01:16:09 +0000
+date:       2020-10-18 21:16:10 -0400
 permalink:  the_magic_of_rails
 ---
 
