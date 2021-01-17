@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All About CSS"
-date:       2021-01-17 21:56:06 +0000
+date:       2021-01-17 16:56:07 -0500
 permalink:  all_about_css
 ---
 
@@ -33,6 +33,6 @@ One of the great things about CSS is the array of selectors available to us. Thi
 | h4 + p | targets p elements that are directly after an h4 element |
 | a:visited | targets links that have been visited |
 
-You can find even more selectors[here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#selectors). You can also combine selectors to narrow down your target list. An example of this would be `h1 + ol li#first`, which reading right to left would mean, "target li element with an id of 'first' that is inside an ol that is directly after an h1 element". 
+You can find even more selectors [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#selectors). You can also combine selectors to narrow down your target list. An example of this would be `h1 + ol li#first`, which reading right to left would mean, "target li element with an id of 'first' that is inside an ol that is directly after an h1 element". 
 
 Now that we understand the basics of CSS, infinite possibilities await for you to explore! Advanced selectors, flexbox grids, animations, and other CSS tools we didn't cover are just a simple google search away from expanding your programming abilities tenfold. CSS is a wonderful tool to create unique web apps and customize pages exactly as you want them. To learn more, [MDN's CSS page](https://developer.mozilla.org/en-US/docs/Learn/CSS) is a great place to start. Now get out there and start designing!
