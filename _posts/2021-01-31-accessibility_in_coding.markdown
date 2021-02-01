@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Accessibility in Coding"
-date:       2021-02-01 00:32:08 +0000
+date:       2021-01-31 19:32:09 -0500
 permalink:  accessibility_in_coding
 ---
 
